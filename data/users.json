@@ -1,0 +1,37 @@
+{
+    "6669c280827a2": {
+        "username": "kartof",
+        "email": "asdasd",
+        "password": "kartof",
+        "reviews": [
+            {
+                "book_id": "665a09b4ea90b",
+                "review": "WOWW",
+                "rating": "5"
+            },
+            {
+                "book_id": "6669af8e3b644",
+                "review": "Meh\r\n",
+                "rating": "3"
+            }
+        ],
+        "booksRead": [],
+        "isAdmin": true,
+        "id": "6669c280827a2"
+    },
+    "6669c7c5a0fe1": {
+        "username": "qaqulik",
+        "email": "qaqulik@gmail.com",
+        "password": "qaqulik",
+        "reviews": [
+            {
+                "book_id": "665a0dad288af",
+                "review": "dasdas",
+                "rating": "1"
+            }
+        ],
+        "booksRead": [],
+        "isAdmin": true,
+        "id": "6669c7c5a0fe1"
+    }
+}

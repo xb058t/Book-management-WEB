@@ -1,0 +1,129 @@
+{
+    "665a09b4ea90b": {
+        "title": "HEHEHEHEHHE",
+        "author": "Abc",
+        "description": "Abc",
+        "image": "assets\/book_cover_1.png",
+        "year": "1000",
+        "planet": "Abc",
+        "id": "665a09b4ea90b",
+        "reviews": [
+            {
+                "username": "kartof1",
+                "review": "VBad",
+                "rating": "1"
+            },
+            {
+                "username": "kartof1",
+                "review": "",
+                "rating": "5"
+            },
+            {
+                "username": "kartof",
+                "review": "WOWW",
+                "rating": "5"
+            }
+        ]
+    },
+    "665a0dad288af": {
+        "title": "121213123123123123",
+        "author": "2",
+        "description": "3",
+        "image": "assets\/book_cover_2.png",
+        "year": "4",
+        "planet": "5",
+        "id": "665a0dad288af",
+        "reviews": [
+            {
+                "username": "kartof1",
+                "review": "Great",
+                "rating": "3"
+            },
+            {
+                "username": "qaqulik",
+                "review": "dasdas",
+                "rating": "1"
+            }
+        ]
+    },
+    "6669ac5798e2b": {
+        "title": "AA",
+        "author": "as",
+        "description": "as",
+        "image": "assets\/book_cover_1.png",
+        "year": "2321",
+        "planet": "asd",
+        "id": "6669ac5798e2b"
+    },
+    "6669ae69a2e60": {
+        "title": "Geol",
+        "author": "awe",
+        "description": "ssss",
+        "image": "assets\/book_cover_5.png",
+        "year": "2321",
+        "planet": "43222",
+        "id": "6669ae69a2e60"
+    },
+    "6669af8e3b644": {
+        "title": "Salam",
+        "author": "Aleykum",
+        "description": "HeHE",
+        "image": "assets\/book_cover_3.png",
+        "year": "2222",
+        "planet": "212",
+        "id": "6669af8e3b644",
+        "reviews": [
+            {
+                "username": "kartof",
+                "review": "Meh\r\n",
+                "rating": "3"
+            }
+        ]
+    },
+    "6669b26b5ad26": {
+        "title": "kartof",
+        "author": "kartof",
+        "description": "kartof",
+        "image": "assets\/book_cover_4.png",
+        "year": "2121",
+        "planet": "kartof",
+        "id": "6669b26b5ad26"
+    },
+    "6669b2c2d1058": {
+        "title": "BAAS",
+        "author": "asd",
+        "description": "asd",
+        "image": "assets\/book_cover_1.png",
+        "year": "1",
+        "planet": "BAAS",
+        "id": "6669b2c2d1058"
+    },
+    "6669b5132fc1d": {
+        "title": "kartof",
+        "author": "kartof",
+        "description": "kartof",
+        "image": "assets\/book_cover_1.png",
+        "year": "2222",
+        "planet": "kartof",
+        "id": "6669b5132fc1d"
+    },
+    "6669b58d14b00": {
+        "title": "kartof",
+        "author": "kartof",
+        "description": "kartof",
+        "image": "assets\/book_cover_1.png",
+        "year": "12222",
+        "planet": "kartof",
+        "id": "6669b58d14b00"
+    },
+    "6669cef9eaba5": {
+        "title": "NWWW",
+        "author": "NWWW",
+        "description": "NWWW",
+        "image": "assets\/book_cover_1.png",
+        "year": "1212",
+        "planet": "NWWW",
+        "genre": "Mama Tvoya Fantastika",
+        "id": "6669cef9eaba5"
+    }
+}
